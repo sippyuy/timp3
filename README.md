@@ -43,30 +43,30 @@
   
   - Сборка проекта
   
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/9.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/9.png)
     
   - Запускаем приложение и проверяем работоспособность
   
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/10.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/10.png)
     
   - solver, приложение которое испольует статические библиотеки formatter_ex и solver_lib.
   
   - Перемещаемся в директорию **solver_lib**  и редактируем файл CMake
 
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/12.png)
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/11.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/12.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/11.png)
     
   - Перемещаемся в директорию **solver_application** и редактируем CMake
   
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/14.png)
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/13.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/14.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/13.png)
     
   - Сборка приложения
   
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/15.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/15.png)
     
   - Запускаем приложение, вычисляющее решения квадратного уравнения, проверяем работоспособность
   
-    ![](https://github.com/sippyuy/timp3/blob/main/screens/16.png)
+  ![](https://github.com/sippyuy/timp3/blob/main/screens/16.png)
 
 Удачной стажировки!
