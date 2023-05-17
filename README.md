@@ -11,8 +11,8 @@
 ![](https://github.com/sippyuy/timp3/blob/main/screens/2.png)
 
 - Собираем проект и проверяем корректность сборки
-      - cmake -B build - подготовка и обработка файлов сборки в библиотеку *build*
-      - cmake --build build сборка библиотеки в исполняемый файл
+- cmake -B build - подготовка и обработка файлов сборки в библиотеку *build*
+- cmake --build build сборка библиотеки в исполняемый файл
     
 ![](https://github.com/sippyuy/timp3/blob/main/screens/3.png)
 
